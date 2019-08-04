@@ -1,7 +1,8 @@
 /*Código CSS do Cabeçalho do site, onde temos a logo e o menu.*/
 header {
     background-color: #e24647;
-} 
+    font-family: 'Roboto', sans-serif;
+    }  
 
 h1 {
     color: #FFF;
