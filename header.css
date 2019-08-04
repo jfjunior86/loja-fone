@@ -1,0 +1,16 @@
+/*Código CSS do Cabeçalho do site, onde temos a logo e o menu.*/
+header {
+    background-color: #e24647;
+} 
+
+h1 {
+    color: #FFF;
+    font-size: 40px;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 21px;
+}
+
