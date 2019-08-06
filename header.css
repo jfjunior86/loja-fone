@@ -1,31 +1,31 @@
 /*Código CSS do Cabeçalho do site, onde temos a logo e o menu.*/
 header {
     background-color: #e24647;
-    font-family: 'Roboto', sans-serif;
-    }  
+    color: #FFF;
+    overflow: hidden;
+    margin: 0 115px; /*Respiro externo*/
+    padding: 55px 60px 95px; /* padding: top right/left  botton; - respiro interno*/
+
+}  
 
 h1 {
-    color: #FFF;
     font-size: 40px;
+    font-family: Arial, 'Roboto', sans-serif;
+    float: left;
+}
+
+nav{
+    font-size: 21px;
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    float: right;
 }
 
 a {
-    color: #FFF;
+    color: inherit; /*herda a propriedade da teg pai.*/
     text-decoration: none;
-    font-size: 21px;
-    margin: 0 20px;
+    margin: inherit;
+    
 }
 
-.logo .menu {
-    width: 80px;
-    height: 100px;
-}
-    
-.menu {
-    float: right;
-} 
-    
-.logo, .menu {
-    display: inline-block;
-}
+
 
