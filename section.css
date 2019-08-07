@@ -1,0 +1,10 @@
+section{
+    margin: 0 115px; /*Respiro externo*/
+}
+.btn{
+    border: solid 2px #252c41;
+    background-color: #252c41;
+    color: white;
+    padding: 17px 60px 21px 60px;
+    float: right;
+}
