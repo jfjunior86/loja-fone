@@ -4,7 +4,7 @@ header {
     color: #FFF;
     overflow: hidden;
     margin: 0 115px; /*Respiro externo*/
-    padding: 55px 60px 95px; /* padding: top right/left  botton; - respiro interno*/
+    padding: 55px 28px 95px 60px; /* padding: top right/left  botton; - respiro interno*/
 
 }  
 
@@ -14,7 +14,7 @@ h1 {
     float: left;
 }
 
-nav{
+nav{ 
     font-size: 21px;
     font-family: 'Segoe UI', 'Roboto', sans-serif;
     float: right;
@@ -24,6 +24,7 @@ a {
     color: inherit; /*herda a propriedade da teg pai.*/
     text-decoration: none;
     margin: inherit;
+    padding-left: 28px;
     
 }
 
