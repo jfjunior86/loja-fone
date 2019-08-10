@@ -29,7 +29,7 @@ Criando o arquivo **CSS**:
 ```
 nomeDoArquivo.css
 ```
-2. dentro do arquivo **HTML** na tag `head` coloque o seguinte link: 
+2. dentro do arquivo **HTML** na tag `head` coloque o seguinte link:2 
 
 ```
 <link rel="stylesheet" href="nomeDoArquivo.css">
