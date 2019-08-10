@@ -1,5 +1,5 @@
 /*CSS dos botões*/
-.button {
+.button-store {
     display: inline-block; /*Proporciona que os elementos fiquem na mesma linha e deixa definir width e height*/    
     background-color: #252c41;
     font-size: 20px;
@@ -10,5 +10,6 @@
     line-height: 60px; /* Alinha o texto na vertical dentro do botão, tem que ter o mesmo valor do height. Funciona bem quando temos apenas uma linha.*/
     margin-right: 0;
     text-align: center; /*Alinha o texto na horizontal*/
+    text-decoration: none;
     
 }

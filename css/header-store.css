@@ -1,19 +1,7 @@
 /*Código CSS do Cabeçalho do site, onde temos a logo e o menu.*/
-.header-store {
-    background-color: #e24647;
+.header-store {    
     color: #FFF;
-    overflow: hidden;
-    
-    width: 80%;    
-    padding: 55px 60px 95px; /* padding: top right/left  botton; - respiro interno*/
-
-    
-    /*top bottom => X
-     left right => Y */
-    position: absolute; /*cria um novo contexto / quem define a largura e a altura é o conteúdo*/
-    left: 50%;
-    top: 50%;
-    transform: translateX(-50%) translateY(-50%); 
+    overflow: hidden;       
 }  
 
 .title {
