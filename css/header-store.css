@@ -1,0 +1,43 @@
+/*Código CSS do Cabeçalho do site, onde temos a logo e o menu.*/
+.header-store {
+    background-color: #e24647;
+    color: #FFF;
+    overflow: hidden;
+    
+    width: 80%;    
+    padding: 55px 60px 95px; /* padding: top right/left  botton; - respiro interno*/
+
+    
+    /*top bottom => X
+     left right => Y */
+    position: absolute; /*cria um novo contexto / quem define a largura e a altura é o conteúdo*/
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%); 
+}  
+
+.title {
+    font-size: 40px;
+    font-family: Arial, 'Roboto', sans-serif;
+    float: left;
+}
+
+.navigation { 
+    font-size: 21px;
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    float: right;
+}
+
+.action {
+    color: inherit; /*herda a propriedade da tag pai.*/
+    text-decoration: none;
+    margin: inherit;   
+    margin-right: 60px; /*Distância entre os itens do menu.*/
+}
+
+.last {
+    margin-right: 0;
+}
+
+
+
