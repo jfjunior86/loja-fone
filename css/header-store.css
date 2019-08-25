@@ -1,19 +1,19 @@
 /*Código CSS do Cabeçalho do site, onde temos a logo e o menu.*/
 .header-store {    
     color: #FFF;
-    overflow: hidden;       
+    overflow: hidden;  /*recalcula o contexto, o que posibilita que o pai considere os filhos*/      
 }  
 
 .title {
     font-size: 40px;
     font-family: Arial, 'Roboto', sans-serif;
-    float: left;
+    float: left; /*Logo flutuado a esquerda*/ 
 }
 
 .navigation { 
     font-size: 21px;
     font-family: 'Segoe UI', 'Roboto', sans-serif;
-    float: right;
+    float: right; /*menu flutuando a direita*/
 }
 
 .action {

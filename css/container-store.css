@@ -2,12 +2,13 @@
 .container-store{
     background-color: #e24647;
     width: 80%;
+    height: 70%; /*df1*/
     padding: 55px 60px 95px; /* padding: top right/left  botton; - respiro interno*/
 
-    /*top bottom => X
-     left right => Y */
+    /*centraliza o conteiner*/
      position: absolute; /*cria um novo contexto / quem define a largura e a altura é o conteúdo*/
      left: 50%;
      top: 50%;
      transform: translateX(-50%) translateY(-50%); 
+    
 }

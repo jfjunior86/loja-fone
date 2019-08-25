@@ -1,0 +1,46 @@
+.box-information{  
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    font-family: Arial, 'Roboto', sans-serif;
+    top: 240px;
+          
+}
+
+.name{
+    font-size: 25px;
+}
+.model{
+    margin-top: 100px;
+    padding-left: 10px;    
+}
+.freight{    
+    text-transform: uppercase;
+    margin-top: 30px;        
+}
+.price{   
+    text-transform: uppercase;
+    margin-top: 30px;    
+}
+.value{
+    padding-left: 80px;
+    display: inline;
+}
+.value.-second{
+    padding-left: 75px;    
+}
+
+.description{
+    font-size: 18px;
+    margin-top: 75px;
+    
+}
+.continue{
+    margin-top: 50px;
+    font-size: 18px;
+}
+.button-more{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 50px;
+}
