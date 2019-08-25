@@ -1,7 +1,8 @@
 /*Código CSS do Cabeçalho do site, onde temos a logo e o menu.*/
 .header-store {    
     color: #FFF;
-    overflow: hidden;  /*recalcula o contexto, o que posibilita que o pai considere os filhos*/      
+    overflow: hidden;  /*recalcula o contexto, o que posibilita que o pai considere os filhos*/ 
+    margin-bottom: 140px;  
 }  
 
 .title {

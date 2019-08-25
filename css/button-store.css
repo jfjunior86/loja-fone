@@ -1,5 +1,9 @@
 /*CSS dos botões*/
 
+.line{
+    display: inline-block;
+}
+
 .button-store {
     display: inline-block; /*Proporciona que os elementos fiquem na mesma linha e deixa definir width e height*/    
     box-sizing: border-box;
@@ -22,5 +26,6 @@
     width: 218px;
     line-height: 56px;
     margin-top: 95px;
+    margin-right: 40px;
 }
 
