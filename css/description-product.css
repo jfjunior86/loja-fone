@@ -6,7 +6,13 @@
 
 .description-product > .title{
     font-size: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+}
+
+.star{
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-right: 8px;
 }
 
 .description-product > .item{
