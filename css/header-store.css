@@ -3,6 +3,7 @@
     color: #FFF;
     overflow: hidden;  /*recalcula o contexto, o que posibilita que o pai considere os filhos*/ 
     margin-bottom: 138px;  
+    padding-left: 60px;
 }  
 
 .header-store > .title {

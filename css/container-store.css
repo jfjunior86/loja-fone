@@ -1,13 +1,13 @@
 /*Centraliza na horizontal e na vertical*/
 .container-store{
     background-color: #e24647;
-    width: 80%;
-    padding: 55px 60px 95px; /* padding: top right/left  botton; - respiro interno*/
+    width: 90%;
+    padding: 55px 60px 95px 0; /* padding: top right/left  botton; - respiro interno*/
 
     /*centraliza o conteiner*/
      position: absolute; /*cria um novo contexto / quem define a largura e a altura é o conteúdo*/
      left: 50%;
      top: 50%;
-     transform: translateX(-50%) translateY(-50%); 
+     transform: translateX(-50%) translateY(-50%);
     
 }
