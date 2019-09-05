@@ -15,7 +15,8 @@
 }
 
 .description-product > .item.-star{     
-    margin-bottom: 10px;    
+    margin-bottom: 10px;
+    cursor: pointer;    
 }
 
 .description-product > .item.-star + .item{
