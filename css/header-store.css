@@ -13,21 +13,23 @@
     text-transform: uppercase;
 }
 
-.header-store > .search {
-    font-size: 20px;
-    font-family: 'Segoe UI', 'Roboto', sans-serif;
-    float: left;
-    margin-left: 307px;    
-}
-
-.header-store .line{
-    width: 358px;
-}
-
 .header-store > .navigation { 
     font-size: 21px;
     font-family: 'Segoe UI', 'Roboto', sans-serif;
     float: right; /*menu flutuando a direita*/
+}
+
+.header-store [type="search"]{
+       background: transparent;
+       border: none;
+       border-bottom: 1px solid #fff;
+       color: #fff;
+       font-family: Arial, 'Roboto', sans-serif;
+       font-size: 20px;
+       padding: 8px;
+       width: 358px;
+       margin-right: 65px;
+
 }
 
 .header-store .action {

@@ -2,7 +2,7 @@
 .container-store{
     background-color: #e24647;
     width: 90%;
-    padding: 55px 60px 95px 0; /* padding: top right/left  botton; - respiro interno*/
+    padding: 55px 60px 165px 0; /* padding: top right/left  botton; - respiro interno*/
 
     /*centraliza o conteiner*/
      position: absolute; /*cria um novo contexto / quem define a largura e a altura é o conteúdo*/
