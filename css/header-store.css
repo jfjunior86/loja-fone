@@ -13,6 +13,17 @@
     text-transform: uppercase;
 }
 
+.header-store > .search {
+    font-size: 20px;
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    float: left;
+    margin-left: 307px;    
+}
+
+.header-store .line{
+    width: 358px;
+}
+
 .header-store > .navigation { 
     font-size: 21px;
     font-family: 'Segoe UI', 'Roboto', sans-serif;
