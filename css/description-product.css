@@ -1,7 +1,8 @@
 /*Informações do Produto*/
+
 .description-product{  
     font-family: "Roboto", sans-serif;
-    color: #fff;  
+    color: #fff;     
 }
 
 .description-product > .title{

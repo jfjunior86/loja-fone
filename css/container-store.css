@@ -8,6 +8,12 @@
      position: absolute; /*cria um novo contexto / quem define a largura e a altura é o conteúdo*/
      left: 50%;
      top: 50%;
-     transform: translateX(-50%) translateY(-50%);
-    
+     transform: translateX(-50%) translateY(-50%);    
+}
+
+.heart{
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    margin: 76px 47px 0 0;
 }
